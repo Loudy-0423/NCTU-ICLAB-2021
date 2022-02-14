@@ -1,2 +1,2 @@
-Lab01/n
+Lab01\n
 Combinational Circuit
